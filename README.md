@@ -4,44 +4,44 @@
 
 # Screen options include
 
-Aspect Ratio.
+## Aspect Ratio.
 
-Disable Dynamic Resolution.
+## Disable Dynamic Resolution.
 
-Continue unfocused.
+## Continue unfocused.
 
-Disable full screen optimization.
+## Disable full screen optimization.
 
-V-Sync.
+## V-Sync.
 
 <img width="1282" height="752" alt="Screenshot 2026-11-09 000837" src="https://github.com/user-attachments/assets/4ac74dfb-5e59-43e0-8a31-e502d3ad944f" />
 
 # Gameplay settings include:
 
-Gameplay FOV.
+## Gameplay FOV.
 
-Disable Motion Blur.
+## Disable Motion Blur.
 
-Intro Skip.
+## Intro Skip.
 
-Camera Filter Removal.
+## Camera Filter Removal.
 
-Colour Filter.
+## Colour Filter.
 
 
 <img width="1282" height="752" alt="Screenshot 2026-11-09 000846" src="https://github.com/user-attachments/assets/c8e1ee18-f1ad-43d0-b85a-4886d1a95df4" />
 
 # Graphics Settings include:
 
-SSAA Scale.
+## SSAA Scale.
 
-MSAA Samples.
+## MSAA Samples.
 
-FXAA.
+## FXAA.
 
-Anisotropic Filtering.
+## Anisotropic Filtering.
 
-Target Frame Rate.
+## Target Frame Rate.
 
 Shadow Settings have a sub menu.
 
@@ -49,17 +49,17 @@ Shadow Settings have a sub menu.
 
 # Shadow settings menu:
 
-Shadow Buffer Size.
+## Shadow Buffer Size.
 
-Shadow Sample Count.
+## Shadow Sample Count.
 
-Distant Shadow Fix.
+## Distant Shadow Fix.
 
 <img width="1282" height="752" alt="Screenshot 2026-11-09 000907" src="https://github.com/user-attachments/assets/dd471f3d-76c6-4800-a1fe-44080654a217" />
 
 # Dev Settings Include:
 
-Extra Diags.
+## Extra Diags.
 
 This option when enabled records a video and audio file when pressing F10.
 
@@ -67,31 +67,31 @@ This option when enabled records a video and audio file when pressing F10.
 
 # Mods or "Trainer" include:
 
-Silent Movement.
+## Silent Movement.
 
-Invisibility.
+## Invisibility.
 
-No Alerts.
+## No Alerts.
 
-One Hit Tranq.
+## One Hit Tranq.
 
-Infinite Ammo.
+## Infinite Ammo.
 
-Infinite Battery.
+## Infinite Battery.
 
-No Reload.
+## No Reload.
 
-Infinite Suppressors.
+## Infinite Suppressors.
 
-God Mode.
+## God Mode.
 
-Invincible.
+## Invincible.
 
-No Stress.
+## No Stress.
 
-Infinite Stamina.
+## Infinite Stamina.
 
-Infinite/ Custom Drebin points. 
+## Infinite/ Custom Drebin points. 
 
 <img width="1282" height="752" alt="Screenshot 2026-11-09 000826" src="https://github.com/user-attachments/assets/076dd5ea-c82e-4208-8de7-08579de29341" />
 
