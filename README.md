@@ -97,7 +97,9 @@ Infinite/ Custom Drebin points.
 
 #Colour Live view 
 
-## Press F11 in game and F12 to save settings (These can be shared with other users after changing)
+## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
+
+When F12 is pressed in the live colour menu a numerical value is saved that can be pasted into the Colour.ini file in ReduxFiles or in the live colour menu itself.
 
 
 
