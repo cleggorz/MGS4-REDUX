@@ -101,6 +101,8 @@ Infinite/ Custom Drebin points.
 
 When F12 is pressed in the live colour menu a numerical value is saved that can be pasted into the Colour.ini file in ReduxFiles or in the live colour menu itself.
 
+Or on reddit etc.
+
 
 
 
