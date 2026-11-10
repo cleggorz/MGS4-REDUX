@@ -101,7 +101,46 @@ This option when enabled records a video and audio file when pressing F10.
 
 When F12 is pressed in the live colour menu a numerical value is saved that can be pasted into Colour.ini in ReduxFiles or in live colour menu itself.
 
-Or on reddit etc.
+# Lets have a look at the Colour Filter differences.
+
+## This is what the OG game looks like without Redux Launcher, completely standard.
+
+<img width="1920" height="1080" alt="OG_Vanilla" src="https://github.com/user-attachments/assets/dfa48c5e-875a-432c-905f-378c9a5a0ffe" />
+
+# Now with the custom launcher.
+
+## Vanilla
+
+<img width="1920" height="1080" alt="vanilla" src="https://github.com/user-attachments/assets/6b48c574-981b-40b1-a30a-38f7f5b6a096" />
+
+## Reduced Sepia.
+
+<img width="1920" height="1080" alt="Reduced" src="https://github.com/user-attachments/assets/5c5d5877-6a93-48af-8bb1-4bae13453fcb" />
+
+## Natural Visuals.
+
+<img width="1920" height="1080" alt="Natural" src="https://github.com/user-attachments/assets/49345acb-fe96-46e7-ac16-8294ff78efbc" />
+
+## Custom Visuals.
+
+<img width="1920" height="1080" alt="Custom" src="https://github.com/user-attachments/assets/de44f168-5b90-44a8-b4f7-7fe8f8b9cffb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
