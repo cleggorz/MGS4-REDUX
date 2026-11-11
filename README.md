@@ -123,9 +123,7 @@ This option when enabled records a video and audio file when pressing F10.
 
 ## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
 
-When F12 is pressed, the live colour menu settings are saved as a numerical value, These can be shared to other users.
-
-Pressing F12 copies the colour settings to the clipboard.
+When F12 is pressed, live colour menu settings are copied to Colour.ini and saved as a numerical value, These can be shared to other users as they are copied to the clipboard.
 
 
 
