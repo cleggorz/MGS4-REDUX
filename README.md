@@ -95,14 +95,6 @@ This option when enabled records a video and audio file when pressing F10.
 
 <img width="1282" height="752" alt="Screenshot 2026-11-09 000826" src="https://github.com/user-attachments/assets/076dd5ea-c82e-4208-8de7-08579de29341" />
 
-# Colour Live view 
-
-## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
-
-When F12 is pressed in the live colour menu a numerical value is saved that can be pasted into Colour.ini in ReduxFiles or in live colour menu itself.
-
-# Lets have a look at the Colour Filter differences.
-
 ## This is what the OG game looks like without Redux Launcher, completely standard.
 
 <img width="1920" height="1080" alt="OG_Vanilla" src="https://github.com/user-attachments/assets/dfa48c5e-875a-432c-905f-378c9a5a0ffe" />
@@ -124,6 +116,14 @@ When F12 is pressed in the live colour menu a numerical value is saved that can 
 ## Custom Visuals.
 
 <img width="1920" height="1080" alt="Custom" src="https://github.com/user-attachments/assets/de44f168-5b90-44a8-b4f7-7fe8f8b9cffb" />
+
+# Colour Live view 
+
+## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
+
+When F12 is pressed in the live colour menu a numerical value is saved that can be pasted into Colour.ini in ReduxFiles or in live colour menu itself.
+
+# Lets have a look at the Colour Filter differences.
 
 
 
