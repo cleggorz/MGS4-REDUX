@@ -125,6 +125,12 @@ This option when enabled records a video and audio file when pressing F10.
 
 When F12 is pressed, live colour menu settings are copied to Colour.ini and saved as a numerical value, These can be shared to other users as they are copied to the clipboard.
 
+## This is where users need to share their F12 settings. 
+
+# We can make this game the best together.
+
+### Sharing our Collaborated tests, We can make something special.  
+
 
 
 
