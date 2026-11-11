@@ -123,7 +123,10 @@ This option when enabled records a video and audio file when pressing F10.
 
 ## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
 
-When F12 is pressed in the live colour menu a numerical value is saved that can be pasted into Colour.ini in ReduxFiles or in live colour menu itself.
+When F12 is pressed, the live colour menu settings are saved as a numerical value, These can be shared to other users.
+
+Pressing F12 copies the colour settings to the clipboard.
+
 
 
 
