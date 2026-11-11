@@ -95,13 +95,13 @@ This option when enabled records a video and audio file when pressing F10.
 
 <img width="1282" height="752" alt="Screenshot 2026-11-09 000826" src="https://github.com/user-attachments/assets/076dd5ea-c82e-4208-8de7-08579de29341" />
 
-# Lets have a look at the Colour Filter differences.
+# Custom Colour Filter differences.
 
-## This is what the OG game looks like without Redux Launcher.
+## OG game without Redux Launcher.
 
 <img width="1920" height="1080" alt="OG_Vanilla" src="https://github.com/user-attachments/assets/dfa48c5e-875a-432c-905f-378c9a5a0ffe" />
 
-# Now with the custom launcher.
+# Now with the Redux launcher.
 
 ## Vanilla
 
