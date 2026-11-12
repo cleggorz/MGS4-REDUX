@@ -117,6 +117,12 @@ This option when enabled records a video and audio file when pressing F10.
 
 # Colour Live view 
 
+## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
+
+When F12 is pressed, live colour menu settings are copied to Colour.ini and saved as a numerical value, These can be shared to other users as they are copied to the clipboard.
+
+### Share Colour Settings in Issues.
+
 <img width="706" height="501" alt="Shadows Mids and Highlights - Copy" src="https://github.com/user-attachments/assets/b59bbea2-d6a5-49d8-a643-15ea475e80ff" />
 
 <img width="706" height="357" alt="Curves - Copy" src="https://github.com/user-attachments/assets/7c8857a1-bcc3-41cf-8744-bad5f98f6a75" />
@@ -129,12 +135,7 @@ This option when enabled records a video and audio file when pressing F10.
 
 <img width="706" height="453" alt="Basic - Copy" src="https://github.com/user-attachments/assets/7d345806-9a07-4dfc-830d-67bcea1708ce" />
 
-
-## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
-
-When F12 is pressed, live colour menu settings are copied to Colour.ini and saved as a numerical value, These can be shared to other users as they are copied to the clipboard.
-
-### Share Colour Settings in Issues.  
+  
 
 
 
