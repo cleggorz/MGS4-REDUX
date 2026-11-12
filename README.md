@@ -95,37 +95,46 @@ This option when enabled records a video and audio file when pressing F10.
 
 <img width="1282" height="752" alt="Screenshot 2026-11-09 000826" src="https://github.com/user-attachments/assets/076dd5ea-c82e-4208-8de7-08579de29341" />
 
-# Custom Colour Filter differences.
+# Custom Colour Filter.
 
-## OG game without Redux Launcher.
+## Original Game.
 
 <img width="1920" height="1080" alt="OG_Vanilla" src="https://github.com/user-attachments/assets/dfa48c5e-875a-432c-905f-378c9a5a0ffe" />
 
-# Now with the Redux launcher.
+# Redux launcher.
 
 ## Vanilla
 
 <img width="1920" height="1080" alt="vanilla" src="https://github.com/user-attachments/assets/6b48c574-981b-40b1-a30a-38f7f5b6a096" />
 
-## Reduced Sepia.
+## Reduced.
 
 <img width="1920" height="1080" alt="Reduced" src="https://github.com/user-attachments/assets/5c5d5877-6a93-48af-8bb1-4bae13453fcb" />
 
-## Natural Visuals.
+## Natural.
 
 <img width="1920" height="1080" alt="Natural" src="https://github.com/user-attachments/assets/49345acb-fe96-46e7-ac16-8294ff78efbc" />
 
-## Custom Visuals.
-
-<img width="1920" height="1080" alt="Custom" src="https://github.com/user-attachments/assets/de44f168-5b90-44a8-b4f7-7fe8f8b9cffb" />
-
 # Colour Live view 
+
+<img width="706" height="501" alt="Shadows Mids and Highlights - Copy" src="https://github.com/user-attachments/assets/b59bbea2-d6a5-49d8-a643-15ea475e80ff" />
+
+<img width="706" height="357" alt="Curves - Copy" src="https://github.com/user-attachments/assets/7c8857a1-bcc3-41cf-8744-bad5f98f6a75" />
+
+<img width="706" height="549" alt="Colour Balance - Copy" src="https://github.com/user-attachments/assets/524927cf-ae29-429e-a802-d3dedbb46158" />
+
+<img width="706" height="549" alt="Brightness Tone - Copy" src="https://github.com/user-attachments/assets/5170a98b-a33b-402e-a95f-6f6e2e40efca" />
+
+<img width="706" height="405" alt="Bright Light - Copy" src="https://github.com/user-attachments/assets/c3b33a2e-8093-473f-b2f4-e128a9184360" />
+
+<img width="706" height="453" alt="Basic - Copy" src="https://github.com/user-attachments/assets/7d345806-9a07-4dfc-830d-67bcea1708ce" />
+
 
 ## Press F11 in game to edit Live Colour settings and F12 to save (These can be shared with other users after changing)
 
 When F12 is pressed, live colour menu settings are copied to Colour.ini and saved as a numerical value, These can be shared to other users as they are copied to the clipboard.
 
-### Sharing our Collaborated tests, We can make something special.  
+### Share Colour Settings in Issues.  
 
 
 
